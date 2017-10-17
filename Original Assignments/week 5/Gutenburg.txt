@@ -1,0 +1,2 @@
+The gutenburg zip file is extracted in the Gutenbefg folder in the current directory.
+Since it is so large it isn't included int git
