@@ -11,3 +11,11 @@ Mapping of assignments to notebooks:
 - Assignment 5 -> [Map Reduce](Map%20Reduce.md)
 - Assignment 6 -> [Spark](Spark.ipynb)
 - Assignment 7 -> [MongoDB](MongoDB.ipynb)
+
+# License
+
+This project falls under the MIT license.
+In short say you've got it form me and you're fine. (Sorry other Fontys students :p)
+
+Some files contain copyrighted materials, even though sometimes they are not marked that way.
+All files where provided by Fontys University of ICT or written by me. 
