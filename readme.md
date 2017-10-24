@@ -5,12 +5,12 @@ The original assignments are in the folder Original Assignments, but are not my 
 
 Mapping of assignments to notebooks:
 
-- Assignment 1 -> [Missing Data](Missing%20Data.md)
-- Assignment 2 -> [Cleaning of data](Cleaning%20of%20data.ipynb)
-- Assignment 4 -> [Hadoop Hive](Hadoop%20Hive.md)
-- Assignment 5 -> [Map Reduce](Map%20Reduce.md)
-- Assignment 6 -> [Spark](Spark.ipynb)
-- Assignment 7 -> [MongoDB](MongoDB.ipynb)
+- Week 2 -> [Missing Data](Missing%20Data.md)
+- Week 3 -> [Cleaning of data](Cleaning%20of%20data.ipynb)
+- Week 4 -> [Hadoop Hive](Hadoop%20Hive.md)
+- Week 5 -> [Map Reduce](Map%20Reduce.md)
+- Week 6 -> [Spark](Spark.ipynb)
+- Week 7 -> [MongoDB](MongoDB.ipynb)
 
 # License
 
