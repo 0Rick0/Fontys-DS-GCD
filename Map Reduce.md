@@ -3,6 +3,8 @@ In this document an example will be given for map reduce.
 
 To run the example, run `map_reduce.sh` on a *NIX compatible system.
 
+The sourcecode is at [MapReduce_code.py](MapReduce_code.py)
+
 # The functions
 The map function is responsible for the cleaning and mapping of the data.
 
