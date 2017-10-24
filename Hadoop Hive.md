@@ -8,6 +8,27 @@ It converts the SQL statements to map and reduce actions.
 # Some examples
 I will give some examples using a dataset of iMDB.
 
+# Creating the tables
+Creating the userdata table. Other tables are similar.
+```SQL
+CREATE TABLE userdata (
+  userid int,
+  itemid int,
+  rating float,
+  stamp int
+  )
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '|'
+LINES TERMINATED BY '\n'
+STORED AS TEXTFILE;
+```
+To load the data, the following query needs to be executed"
+```SQL
+LOAD DATA INPATH '/user/root/assignment4/u.data' OVERWRITE INTO TABLE userdata;
+```
+
+After this you can query the userdata table for the data of movies.
+
 # The number of Male and Female users
 This is quite easy to use. You can't all users and group them by gender.
 
