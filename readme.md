@@ -10,7 +10,7 @@ Mapping of assignments to notebooks:
 - Week 4 -> [Hadoop Hive](Hadoop%20Hive.md)
 - Week 5 -> [Map Reduce](Map%20Reduce.md)
 - Week 6 -> [Spark](Spark.ipynb)
-- Week 7 -> [MongoDB](MongoDB.ipynb)
+- Week 7 -> [MongoDB](MongoDB.ipynb) and [MongoDB Schemas](MongoDB%20Schemas.md)
 
 # License
 
