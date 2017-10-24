@@ -19,7 +19,8 @@ You need to store it like this:
       "nr": 1,
       "name": "name"
     }
-  ]"courses": [
+  ],
+  "courses": [
     {
       "name": "name",
       "credits": "credits"
