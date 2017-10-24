@@ -52,3 +52,22 @@ This is because there is no correlation between the gibberish input and the rest
 In a normal case, the missing values should be considered MAR.
 The person might not be comfortable with their gender, or they don't fit into the two values.
 Dynamic classification would also be a better option in this case.
+
+# Quality measurement
+The measurements I'm using are:
+ - Validity 
+ - Accuracy 
+ - Completeness 
+ - Consistency 
+ - Uniformity
+
+The gender column suffers the most form consistency and uniformity violations. People enter different things to male and female.
+Not only things like capitalisation and languages are in the violation. But also other "genders" like PDF.
+
+The `What is the ideal age to get married?` column is entirely empty so this one is missing completeness entirely.
+
+The `What do you think the average income for the class with be in ten years’ time?` column is violating accuracy.
+Everyone is entering it in a different format and it is not clear how to interpret it.
+
+And `What subject are you majoring in?` and `What is your nationality?` is missing uniformity again. Everyone is entering their major differently.
+Think like capitalisation and format.
