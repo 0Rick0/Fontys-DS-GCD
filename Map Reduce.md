@@ -39,6 +39,23 @@ def reducefn(k, vs):
     return sum(vs)
 ```
 
+# Results:
+The first  results and counts are:
+```
+one	41465
+said	41357
+now	27003
+will	24091
+us	23720
+time	22193
+like	21578
+can	20189
+project	20175
+back	20042
+upon	19899
+```
+Note, only including HTML and TXT documents. PDF and others are ignored due to incompatibility.
+
 # Performance
 You can see how this application can scale using multiple processes.
 When running with 2 worker processes, it runs for about 28 seconds for the large dataset.
@@ -50,5 +67,5 @@ You can basically keep adding more workers to increase the processing speed.
 I can't go above eight because I only have 8 threads on my CPU and the performance would start to decrease due to timesharing.
 
 System specs:
- - i7-7700HQ@2.80GHz
- - 16GB DDR4@2400MHz
+ - i7-7700HQ\@2.80GHz
+ - 16GB DDR4\@2400MHz
