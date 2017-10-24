@@ -69,5 +69,5 @@ The `What is the ideal age to get married?` column is entirely empty so this one
 The `What do you think the average income for the class with be in ten years’ time?` column is violating accuracy.
 Everyone is entering it in a different format and it is not clear how to interpret it.
 
-And `What subject are you majoring in?` and `What is your nationality?` is missing uniformity again. Everyone is entering their major differently.
+And `What subject are you majoring in?` and `What is your nationality?` is missing consistency and uniformity again. Everyone is entering their major differently.
 Think like capitalisation and format.
