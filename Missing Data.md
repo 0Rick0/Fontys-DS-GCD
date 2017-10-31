@@ -61,13 +61,13 @@ The measurements I'm using are:
  - Consistency 
  - Uniformity
 
-The gender column suffers the most form consistency and uniformity violations. People enter different things to male and female.
+The gender column suffers the most form uniformity violations. People enter different things to male and female.
 Not only things like capitalisation and languages are in the violation. But also other "genders" like PDF.
 
-The `What is the ideal age to get married?` column is entirely empty so this one is missing completeness entirely.
+The `What is the ideal age to get married?` column is entirely. This mean this entire column is invalid. This is because of an missing input field.
 
-The `What do you think the average income for the class with be in ten years’ time?` column is violating accuracy.
+The `What do you think the average income for the class with be in ten years’ time?` column is violating uniformity.
 Everyone is entering it in a different format and it is not clear how to interpret it.
 
-And `What subject are you majoring in?` and `What is your nationality?` is missing consistency and uniformity again.
+And `What subject are you majoring in?` and `What is your nationality?` is missing uniformity again.
 Everyone is entering their major and nationality differently. Think like capitalisation and format.
